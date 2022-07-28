@@ -1,3 +1,7 @@
+
 NEw file txt modified.
 
 this is the change done in my local to resolve conflict.
+
+NEw file txt modified. Edited in the git hub branch
+
