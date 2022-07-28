@@ -1,1 +1,3 @@
-NEw file txt modified
+NEw file txt modified.
+
+this is the change done in my local to resolve conflict.
